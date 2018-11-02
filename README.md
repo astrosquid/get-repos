@@ -9,8 +9,8 @@ At the bottom of the settings menu on the right, click "Developer Settings", the
 
 Make a new one for this script, be sure to copy it when given, since GitHub will never display it again. 
 
-Make it the value of the `token` variable in `clone_repos.rb`.
+Make a new folder where all your repos will be located, then copy this script into it.
 
-Make a new folder where all your repos will be located, then clone this repo into it. 
+Make your token the value of the `token` variable in `clone_repos.rb`.
 
 Execute with `ruby clone_repos.rb` and wait until finished. 
